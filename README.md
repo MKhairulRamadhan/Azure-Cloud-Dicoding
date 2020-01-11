@@ -21,7 +21,9 @@ submittion
     2. Menampilkan berkas yang sudah diunggah ke Azure Blob Storage.
     3. Melakukan analisis gambar menggunakan Cognitive Services.
 
-![](submit2/Figure5.PNG)
+![](submit2/Figure5a.PNG)
+
+![](submit2/Figure5b.PNG)
 
 
 Dengan demikian code berikut sebagai contoh dan referensi bagi teman-teman yang sedang mengerjakan submission dari azure dicoding. semoga dapat membantu. thx
